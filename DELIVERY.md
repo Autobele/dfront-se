@@ -2,7 +2,7 @@
 
 ## [***Exercise 1**](https://github.com/Autobele/se-dls) 
 ## [***Exercise 2**](https://github.com/Autobele/se-exercise--02) 
-## [***Exercise 2**](https://github.com/Autobele/se-exercise--03) 
+## [***Exercise 3**](https://github.com/Autobele/se-exercise--03) 
 
 ### 3: Arquitetura
 
